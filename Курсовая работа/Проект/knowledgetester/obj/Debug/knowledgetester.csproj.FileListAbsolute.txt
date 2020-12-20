@@ -1,0 +1,33 @@
+C:\Users\bogdan\Desktop\KR-main\SuperTesterNSTU\obj\Debug\knowledgetester.csprojAssemblyReference.cache
+C:\Users\bogdan\Desktop\KR-main\SuperTesterNSTU\obj\Debug\knowledgetester.Form1.resources
+C:\Users\bogdan\Desktop\KR-main\SuperTesterNSTU\obj\Debug\knowledgetester.Form2.resources
+C:\Users\bogdan\Desktop\KR-main\SuperTesterNSTU\obj\Debug\knowledgetester.csproj.GenerateResource.cache
+C:\Users\bogdan\Desktop\KR-main\SuperTesterNSTU\obj\Debug\knowledgetester.csproj.CoreCompileInputs.cache
+C:\Users\bogdan\Desktop\KR-main\SuperTesterNSTU\bin\Debug\knowledgetester.exe.config
+C:\Users\bogdan\Desktop\KR-main\SuperTesterNSTU\bin\Debug\knowledgetester.exe
+C:\Users\bogdan\Desktop\KR-main\SuperTesterNSTU\bin\Debug\knowledgetester.pdb
+C:\Users\bogdan\Desktop\KR-main\SuperTesterNSTU\obj\Debug\knowledgetester.Properties.Resources.resources
+C:\Users\bogdan\Desktop\KR-main\SuperTesterNSTU\obj\Debug\knowledgetester.exe
+C:\Users\bogdan\Desktop\KR-main\SuperTesterNSTU\obj\Debug\knowledgetester.pdb
+C:\Users\bogdan\Desktop\KR-main\knowledgetester\bin\Debug\knowledgetester.exe.config
+C:\Users\bogdan\Desktop\KR-main\knowledgetester\bin\Debug\knowledgetester.exe
+C:\Users\bogdan\Desktop\KR-main\knowledgetester\bin\Debug\knowledgetester.pdb
+C:\Users\bogdan\Desktop\KR-main\knowledgetester\obj\Debug\knowledgetester.csprojAssemblyReference.cache
+C:\Users\bogdan\Desktop\KR-main\knowledgetester\obj\Debug\knowledgetester.Properties.Resources.resources
+C:\Users\bogdan\Desktop\KR-main\knowledgetester\obj\Debug\knowledgetester.csproj.GenerateResource.cache
+C:\Users\bogdan\Desktop\KR-main\knowledgetester\obj\Debug\knowledgetester.csproj.CoreCompileInputs.cache
+C:\Users\bogdan\Desktop\KR-main\knowledgetester\obj\Debug\knowledgetester.exe
+C:\Users\bogdan\Desktop\KR-main\knowledgetester\obj\Debug\knowledgetester.pdb
+C:\Users\bogdan\Desktop\KR-main\knowledgetester\obj\Debug\knowledgetester.testing.resources
+C:\Users\bogdan\Desktop\KR-main\knowledgetester\obj\Debug\knowledgetester.authorization.resources
+C:\Users\bogdan\Desktop\Курсовая работа\Проект\knowledgetester\bin\Debug\knowledgetester.exe.config
+C:\Users\bogdan\Desktop\Курсовая работа\Проект\knowledgetester\bin\Debug\knowledgetester.exe
+C:\Users\bogdan\Desktop\Курсовая работа\Проект\knowledgetester\bin\Debug\knowledgetester.pdb
+C:\Users\bogdan\Desktop\Курсовая работа\Проект\knowledgetester\obj\Debug\knowledgetester.csprojAssemblyReference.cache
+C:\Users\bogdan\Desktop\Курсовая работа\Проект\knowledgetester\obj\Debug\knowledgetester.authorization.resources
+C:\Users\bogdan\Desktop\Курсовая работа\Проект\knowledgetester\obj\Debug\knowledgetester.testing.resources
+C:\Users\bogdan\Desktop\Курсовая работа\Проект\knowledgetester\obj\Debug\knowledgetester.Properties.Resources.resources
+C:\Users\bogdan\Desktop\Курсовая работа\Проект\knowledgetester\obj\Debug\knowledgetester.csproj.GenerateResource.cache
+C:\Users\bogdan\Desktop\Курсовая работа\Проект\knowledgetester\obj\Debug\knowledgetester.csproj.CoreCompileInputs.cache
+C:\Users\bogdan\Desktop\Курсовая работа\Проект\knowledgetester\obj\Debug\knowledgetester.exe
+C:\Users\bogdan\Desktop\Курсовая работа\Проект\knowledgetester\obj\Debug\knowledgetester.pdb
